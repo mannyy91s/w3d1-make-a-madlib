@@ -1,0 +1,10 @@
+var firstName = 'Manpreet';
+var lastName = 'Singh';
+var emailAddress = 'mannyy91s@gmail.com';
+var grewUpInCity = true;
+var yearsInCollege = 6;
+var pets = 0;
+var children = 0;
+var favoriteMusicGenre = 'Whatever sounds good';
+var favoriteMovie = 'Troy';
+console.log(firstName,lastName,emailAddress,grewUpInCity,yearsInCollege,pets,children,favoriteMusicGenre,favoriteMovie);
